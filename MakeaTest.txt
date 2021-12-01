@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 how to synch same file?
+=======
+how to synch same file?
+>>>>>>> bb63e87b5425844dde10e8e49c6bbb98b01218b9
+
+nothing to synch
